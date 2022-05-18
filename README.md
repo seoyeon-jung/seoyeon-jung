@@ -3,7 +3,7 @@
 <h3 align="center">✨ABOUT ME✨</h3>
 <div align="center">
  <a href="https://velog.io/@seoyeon-jung12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
- <a href="https://jungluchia1204@gmail.com">
+ <a href="mailto:jungluchia1204@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
