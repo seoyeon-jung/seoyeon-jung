@@ -32,6 +32,9 @@
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-<br>
-
-![seoyeon-jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-jung&show_icons=true&theme=shades-of-purple)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-jung&layout=compact&theme=shades-of-purple&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+ 
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=seoyeon-jung&show_icons=true&theme=shades-of-purple"> &nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-jung&layout=compact&theme=shades-of-purple&langs_count=5" >
+</div>
