@@ -10,17 +10,28 @@
  <a href="https://daydream-sy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Blogger&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </div>
 
- <h3 align="center"> 📌 기술 스택 </h3>
+ <h3 align="center"> ✏️Studying✏️  </h3>
  <div align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+</div>
+
+<h3 align="center"> 🔨Tools🔨 </h3>
+<div align="center">
+ <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a><br>
+ <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
 <br>
 
-
-![seoyeon-jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-jung&show_icons=true)&nbsp;[![seoyeon-jung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-jung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seoyeon-jung)
+![seoyeon-jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-jung&show_icons=true&theme=shades-of-purple)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-jung&layout=compact&theme=shades-of-purple&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
