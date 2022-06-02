@@ -2,12 +2,12 @@
 
 <h3 align="center">✨ABOUT ME✨</h3>
 <div align="center">
- <a href="https://velog.io/@seoyeon-jung12"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
- <a href="mailto:jungluchia1204@gmail.com">
+ <a href="https://velog.io/@seoyeon-jung12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <a href="mailto:jungluchia1204@gmail.com" target="_blank">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
- <a href="https://daydream-sy.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Blogger&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+ <a href="https://daydream-sy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Blogger&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </div>
 
  <h3 align="center"> ✏️Studying✏️  </h3>
