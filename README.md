@@ -34,8 +34,10 @@
 </div>
 
 <br><br>
- 
+
+ <!--
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=seoyeon-jung&show_icons=true&theme=shades-of-purple"> &nbsp;
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-jung&layout=compact&theme=shades-of-purple&langs_count=5" >
 </div>
+-->
