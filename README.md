@@ -10,7 +10,7 @@
   <h3>📧 Contact Me</h3>
   <p>
     <b>Email</b>: junglchia1204@gmail.com<br/>
-    <b>Portfolio</b>: 🔗<a href="https://drive.google.com/file/d/1Zx83zxUjBz8NzqAJ5-pul4upL-q01z14/view">정서연 포트폴리오</a><br/>
+    <b>Portfolio</b>: 🔗<a href="https://drive.google.com/file/d/1NqeH68IhmMJPr9Mc6587L82LhwKKUa2A/view?usp=sharing">정서연 포트폴리오</a><br/>
     <b>Blog</b>: 📝<a href="https://daydream-sy.tistory.com/">Just Do IT!</a>
   </p>
 </div>
