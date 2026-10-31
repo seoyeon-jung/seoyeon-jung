@@ -21,7 +21,7 @@ Java·Spring 백엔드를 중심으로 API 성능 개선과 데이터 정합성�
 
 ## 🛠 Tech Stack
 
-**주력**
+**BE**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -31,7 +31,7 @@ Java·Spring 백엔드를 중심으로 API 성능 개선과 데이터 정합성�
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-**경험**
+**경험/기타**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
